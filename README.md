@@ -1,2 +1,2 @@
 # Resume
-Sushant kumar's Resume
+Sushant Kumar's Resume
